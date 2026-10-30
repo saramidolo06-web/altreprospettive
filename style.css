@@ -61,13 +61,13 @@ img {
 .hero_titolo p:nth-child(1) {
     font-size: 180px;
     line-height: 1;
-    letter-spacing: 13%;
+    letter-spacing: 0.13em;
 }
 
 .hero_titolo p:nth-child(2) {
     font-size: 96px;
     line-height: 1;
-    letter-spacing: 0%;
+    letter-spacing: 0;
 }
 
 .hero_sottotitolo {
